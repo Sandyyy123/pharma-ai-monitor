@@ -1,6 +1,6 @@
 # Pharma AI Monitor — LLM Output Quality Scoring for Drug Information
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?logo=openai) ![FDA](https://img.shields.io/badge/data-openFDA-red) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?logo=openai) ![FDA](https://img.shields.io/badge/data-openFDA-red) ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
 Production-ready pipeline for monitoring and scoring AI-generated pharmaceutical information against verified drug label claims. Fetches real prescribing information from **openFDA**, generates LLM answers, and evaluates them across multiple judge strategies — catching hallucinations, factual drift, and unsupported claims before they reach end users.
 
