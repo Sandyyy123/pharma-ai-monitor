@@ -39,7 +39,7 @@ def main():
     out = build_report()
 
     # copy to Downloads for Windows
-    win_path = "/mnt/c/Users/grove/Downloads/pharma_monitor_report.html"
+    win_path = "pharma_monitor_report.html"
     shutil.copy(out, win_path)
     print(f"\nCopied to {win_path}")
     print("Done.")
