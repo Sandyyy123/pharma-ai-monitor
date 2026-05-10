@@ -161,7 +161,7 @@ Flags: baseline omitted "chronic weight management" qualifier
 
 ## Author
 
-**Dr. Sandeep Grover** — PhD Data Science, independent ML researcher, Mössingen, Germany. Background in clinical data science, pharmacovigilance ML, and AI system evaluation.
+**Dr. Sandeep Grover** — PhD Data Science, independent ML researcher, Germany. Background in clinical data science, pharmacovigilance ML, and AI system evaluation.
 
 ---
 
