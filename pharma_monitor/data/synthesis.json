@@ -1,0 +1,120 @@
+[
+  {
+    "cluster_id": 6,
+    "label": "Weight loss efficacy",
+    "count": 46,
+    "share_pct": 34.1,
+    "dominant_question": "What is Wegovy and how does it work?",
+    "model_breakdown": {
+      "grok-3-mini": 16,
+      "gpt-4o-mini": 15,
+      "claude-haiku-4-5": 15
+    },
+    "evidence": [
+      "Wegovy is a prescription medication containing semaglutide, a GLP-1 receptor agonist used for weight management in adults with obesity or overweight conditions with weight-related health issues. It works by mimicking a hormone that regulates appetite and blood sugar, helping to reduce hunger, increase feelings of fullness, and lower calorie intake. The medication is administered as a weekly injection and is typically used alongside diet and exercise changes. It was approved by the FDA in 2021 specifically for chronic weight management.",
+      "Wegovy (semaglutide) is FDA-approved for chronic weight management in adults with obesity (BMI \u226530) or overweight (BMI \u226527) with at least one weight-related condition, such as type 2 diabetes. Diabetic patients can use Wegovy if they meet these criteria, as it may help with weight loss, which can benefit blood sugar control, but it is not a primary treatment for diabetes. Always consult your healthcare provider to discuss potential risks, benefits, and interactions with other diabetes medications.",
+      "Wegovy is a prescription medication that contains the active ingredient semaglutide, which is used for chronic weight management in adults with obesity or overweight conditions. It works by mimicking the GLP-1 hormone, which helps regulate appetite and food intake, leading to reduced hunger and increased feelings of fullness. This can result in significant weight loss when combined with a reduced-calorie diet and increased physical activity."
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "label": "Weight loss efficacy",
+    "count": 34,
+    "share_pct": 25.2,
+    "dominant_question": "What do clinical trials say about Wegovy efficacy?",
+    "model_breakdown": {
+      "grok-3-mini": 17,
+      "gpt-4o-mini": 13,
+      "claude-haiku-4-5": 4
+    },
+    "evidence": [
+      "Clinical trials have shown that Wegovy (semaglutide) is effective for weight management in adults with obesity or overweight. In studies, participants lost an average of 15-20% of their body weight over 68 weeks when combined with lifestyle changes. The medication works by reducing appetite and increasing feelings of fullness, which helps individuals adhere to their dietary and exercise goals.",
+      "# Wegovy Clinical Trial Results\n\nClinical trials show Wegovy (semaglutide) is highly effective for weight loss. In the STEP trials, patients receiving Wegovy lost approximately 15-22% of their body weight over 68 weeks, compared to 2-3% with placebo. The medication also demonstrated improvements in cardiovascular outcomes and metabolic markers like blood sugar and blood pressure in people with obesity or overweight with weight-related conditions.",
+      "# Wegovy Clinical Trial Results\n\nClinical trials show Wegovy (semaglutide) is highly effective for weight loss. In the STEP trials, patients receiving Wegovy lost approximately 15-22% of their body weight over 68 weeks, compared to 2-3% with placebo. The medication was most effective when combined with lifestyle changes like diet and exercise, and benefits were sustained as long as patients continued treatment."
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "label": "Weight loss efficacy",
+    "count": 15,
+    "share_pct": 11.1,
+    "dominant_question": "How does Wegovy compare to Ozempic?",
+    "model_breakdown": {
+      "gpt-4o-mini": 6,
+      "claude-haiku-4-5": 6,
+      "grok-3-mini": 3
+    },
+    "evidence": [
+      "Wegovy and Ozempic both contain the active ingredient semaglutide but are prescribed for different purposes. Wegovy is specifically approved for chronic weight management in adults with obesity or overweight, while Ozempic is used for the treatment of type 2 diabetes. The dosing regimens differ as well, with Wegovy generally being administered at higher doses than Ozempic. Both medications can help with weight loss and glycemic control but are tailored to their respective indications.",
+      "Wegovy and Ozempic both contain the active ingredient semaglutide and are used for different purposes. Wegovy is specifically approved for chronic weight management in adults with obesity or overweight, while Ozempic is approved for the treatment of type 2 diabetes. The dosing regimens differ, with Wegovy typically requiring higher doses than Ozempic. Both medications work by mimicking GLP-1, a hormone that regulates appetite and insulin secretion.",
+      "Wegovy and Ozempic both contain the active ingredient semaglutide and are used for weight management and type 2 diabetes, respectively. Wegovy is specifically approved for chronic weight management in adults with obesity or overweight, while Ozempic is primarily prescribed for improving glycemic control in adults with type 2 diabetes. The dosages and frequency of administration may differ, with Wegovy typically being given at higher doses than Ozempic."
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "label": "Weight loss efficacy",
+    "count": 12,
+    "share_pct": 8.9,
+    "dominant_question": "What happens when you stop taking Wegovy?",
+    "model_breakdown": {
+      "claude-haiku-4-5": 10,
+      "gpt-4o-mini": 2
+    },
+    "evidence": [
+      "When you stop taking Wegovy, appetite typically returns and weight loss effects gradually diminish over weeks to months. Many people experience weight regain, often returning to their pre-treatment weight or higher if diet and exercise habits aren't maintained. This is why Wegovy is considered a long-term treatment\u2014stopping it usually results in reversal of the weight loss benefits. Consulting your doctor about the best way to discontinue the medication is important for managing this transition.",
+      "Wegovy typically begins showing effects within the first few weeks, with most people noticing reduced appetite and increased fullness relatively quickly. However, significant weight loss usually becomes apparent after 8-12 weeks of consistent use at therapeutic doses. Individual results vary based on factors like dosage, diet, exercise, and metabolism, and the medication works best when combined with lifestyle changes.",
+      "Wegovy typically begins showing effects within the first 2-4 weeks, though weight loss is usually modest at first. Most people experience more noticeable weight loss after 8-12 weeks as their body adjusts to the medication and doses are increased gradually. Individual results vary based on factors like dosage, diet, exercise, and metabolism. The medication works best when combined with lifestyle changes like healthy eating and physical activity."
+    ]
+  },
+  {
+    "cluster_id": 0,
+    "label": "Side effects and tolerability",
+    "count": 10,
+    "share_pct": 7.4,
+    "dominant_question": "What are the side effects of Wegovy?",
+    "model_breakdown": {
+      "claude-haiku-4-5": 4,
+      "gpt-4o-mini": 3,
+      "grok-3-mini": 3
+    },
+    "evidence": [
+      "Common side effects of Wegovy (semaglutide) include nausea, vomiting, diarrhea, constipation, and abdominal pain, which often improve over time. Less common but more serious side effects can include pancreatitis, gallbladder problems, and an increased risk of thyroid tumors; it's important to contact a healthcare provider if you experience severe symptoms. Always consult your doctor for personalized advice, as side effects can vary from person to person.",
+      "Common side effects of Wegovy (semaglutide) include nausea, vomiting, diarrhea, constipation, and abdominal pain, which are often mild and tend to improve over time. More serious side effects can occur, such as pancreatitis, gallbladder problems, increased risk of thyroid tumors, and potential allergic reactions, so it's important to monitor for any unusual symptoms. Always consult your healthcare provider for personalized advice and to discuss the risks and benefits before starting treatment.",
+      "Common side effects of Wegovy (semaglutide) include nausea, vomiting, diarrhea, constipation, and abdominal pain. Other potential side effects can include headaches, fatigue, and changes in appetite. Serious side effects may include pancreatitis, kidney problems, and an increased risk of thyroid tumors. It's important to discuss any side effects with a healthcare provider."
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "label": "Access and cost",
+    "count": 9,
+    "share_pct": 6.7,
+    "dominant_question": "Is Wegovy covered by insurance?",
+    "model_breakdown": {
+      "gpt-4o-mini": 3,
+      "grok-3-mini": 3,
+      "claude-haiku-4-5": 3
+    },
+    "evidence": [
+      "Wegovy (semaglutide) coverage by insurance varies depending on the specific insurance plan and the individual's circumstances. Some insurance plans may cover Wegovy for patients with obesity or weight-related health conditions, while others may have restrictions or may not cover it at all. It's best to check with your insurance provider for specific coverage details and any prior authorization requirements.",
+      "Wegovy coverage varies significantly by insurance plan. Some insurers cover it for patients with obesity and certain weight-related conditions, while others may not cover it at all or require prior authorization and specific criteria. Coverage often depends on your specific plan, your BMI, and whether you have weight-related health conditions like type 2 diabetes or heart disease. I recommend contacting your insurance provider directly to check your coverage eligibility.",
+      "Wegovy coverage varies by insurance plan. Some insurance companies cover it for patients with obesity or weight-related conditions, while others may not cover it or require prior authorization and specific criteria (such as a BMI threshold or documented weight-related health issues). It's best to contact your insurance provider directly to check your specific plan's coverage and any requirements they may have."
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "label": "Weight loss efficacy",
+    "count": 9,
+    "share_pct": 6.7,
+    "dominant_question": "Is Wegovy better than Zepbound for weight loss?",
+    "model_breakdown": {
+      "gpt-4o-mini": 3,
+      "grok-3-mini": 3,
+      "claude-haiku-4-5": 3
+    },
+    "evidence": [
+      "Wegovy (semaglutide) and Zepbound (also known as tirzepatide) are both medications used for weight management, but they work through different mechanisms. Clinical studies suggest that Zepbound may lead to greater weight loss compared to Wegovy in some individuals. However, the effectiveness can vary based on individual response and other factors, so it's important to consult a healthcare provider to determine the best option for your needs.",
+      "Wegovy and Zepbound are essentially the same medication\u2014both contain semaglutide and work identically for weight loss. Wegovy is FDA-approved specifically for weight management, while Zepbound is the same drug approved for chronic weight management in patients with obesity or overweight with weight-related conditions. The choice between them typically depends on insurance coverage, availability, and your doctor's recommendation rather than effectiveness differences. Both have shown similar weight loss results in clinical trials, averaging 15-22% body weight reduction.",
+      "Both Wegovy (semaglutide) and Zepbound (tirzepatide) are FDA-approved medications for weight loss and have demonstrated significant effectiveness in clinical trials, with Zepbound often showing slightly greater average weight loss (up to 21% in some studies) compared to Wegovy (up to about 15-17%). However, the \"better\" option depends on individual factors such as side effects, medical history, and response to treatment, as both can cause issues like nausea or gastrointestinal discomfort. It's essential to consult a healthcare provider to determine the most suitable choice for your specific needs."
+    ]
+  }
+]
