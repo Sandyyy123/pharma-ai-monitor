@@ -150,7 +150,7 @@ def compare():
     OUT.parent.mkdir(exist_ok=True)
     with open(OUT, "w") as f:
         f.write(html)
-    win_path = "/mnt/c/Users/grove/Downloads/pharma_method_comparison.html"
+    win_path = "pharma_method_comparison.html"
     shutil.copy(str(OUT), win_path)
     print(f"Comparison saved and copied to {win_path}")
 
