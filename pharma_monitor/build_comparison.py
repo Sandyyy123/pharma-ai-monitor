@@ -10,7 +10,7 @@ from datetime import date
 
 BASE = Path(__file__).parent / "data"
 OUT = Path(__file__).parent / "output" / "method_comparison.html"
-WIN = "/mnt/c/Users/grove/Downloads/pharma_method_comparison.html"
+WIN = "pharma_method_comparison.html"
 
 def pct(series, val):
     return round(100 * (series == val).sum() / len(series), 1)
