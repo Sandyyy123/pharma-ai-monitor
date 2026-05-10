@@ -2,7 +2,7 @@
 """
 Pharma AI Scoring Demo - Before vs After
 Fetches real Wegovy PI from openFDA, runs baseline + improved scorer on 10 synthetic rows.
-Outputs HTML report to /mnt/c/Users/grove/Downloads/pharma_scoring_demo.html
+Outputs HTML report to pharma_scoring_demo.html
 """
 
 import json
@@ -16,7 +16,7 @@ from demo_data import ROWS
 from baseline_scorer import score_baseline
 from improved_scorer import score_improved
 
-OUT_PATH = "/mnt/c/Users/grove/Downloads/pharma_scoring_demo.html"
+OUT_PATH = "pharma_scoring_demo.html"
 
 
 def fetch_wegovy_pi_claims() -> list:
